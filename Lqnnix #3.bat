@@ -7549,4 +7549,3 @@ del C:\Users\%username%\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\S
 del C:\Users\%username%\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\StagingBundles\Lang.zh-CNOptional /f /s /q
 del C:\Users\%username%\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\StagingBundles\StartupOptional /f /s /q
 pause
-exit
