@@ -109,7 +109,4 @@ rd /q /s W:\$Recycle.Bin
 rd /q /s X:\$Recycle.Bin
 rd /q /s Y:\$Recycle.Bin
 rd /q /s Z:\$Recycle.Bin
-cls
-
-echo "[+] FIVEM CLEANED"
 exit
