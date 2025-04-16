@@ -112,4 +112,4 @@ rd /q /s Z:\$Recycle.Bin
 cls
 
 echo "[+] FIVEM CLEANED"
-pause
+exit
